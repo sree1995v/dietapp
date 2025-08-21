@@ -1,0 +1,449 @@
+Region,Diet,MealType,Day,Dish,Calories,Protein,Carbs,Fat,Tags
+North,Veg,Breakfast,1,Paneer Paratha,315,15.8,44.1,8.4,None
+North,Veg,Breakfast,2,Aloo Paratha (light),304,15.2,42.6,8.1,None
+North,Veg,Breakfast,3,Poha,336,16.8,47.0,9.0,None
+North,Veg,Breakfast,4,Besan Chilla,299,15.0,41.9,8.0,None
+North,Veg,Breakfast,5,Dalia Upma,328,16.4,45.9,8.7,DiabetesFriendly
+North,Veg,Breakfast,6,Stuffed Methi Paratha (light),317,15.9,44.4,8.5,None
+North,Veg,Breakfast,7,Ragi Cheela,298,14.9,41.7,7.9,DiabetesFriendly
+North,Veg,Lunch,1,Rajma + Brown Rice,531,26.6,74.3,14.2,None
+North,Veg,Lunch,2,Chole + Jeera Rice,482,24.1,67.5,12.9,None
+North,Veg,Lunch,3,Dal Tadka + Roti,523,26.2,73.2,13.9,DiabetesFriendly
+North,Veg,Lunch,4,Palak Paneer + Roti,485,24.2,67.9,12.9,None
+North,Veg,Lunch,5,Soybean Curry + Roti,487,24.4,68.2,13.0,None
+North,Veg,Lunch,6,Khichdi + Salad,522,26.1,73.1,13.9,"LowSodium,DiabetesFriendly"
+North,Veg,Lunch,7,Kadhi (light) + Roti,564,28.2,79.0,15.0,None
+North,Veg,Dinner,1,Moong Dal + Roti,396,19.8,55.4,10.6,DiabetesFriendly
+North,Veg,Dinner,2,Masoor Dal + Rice,405,20.2,56.7,10.8,DiabetesFriendly
+North,Veg,Dinner,3,Aloo Gobi + Roti,439,22.0,61.5,11.7,None
+North,Veg,Dinner,4,Mix Veg Curry + Roti,466,23.3,65.2,12.4,None
+North,Veg,Dinner,5,Paneer Bhurji + Roti,434,21.7,60.8,11.6,None
+North,Veg,Dinner,6,Lauki Chana Dal + Roti,419,21.0,58.7,11.2,DiabetesFriendly
+North,Veg,Dinner,7,Baingan Bharta + Roti,468,23.4,65.5,12.5,None
+North,Veg,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+North,Veg,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+North,Veg,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+North,Veg,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+North,Veg,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+North,Veg,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+North,Veg,Snack,7,Protein shake (small),150,20,8,2,None
+North,Non-Veg,Breakfast,1,Masala Omelette + Toast,297,17.8,38.6,7.9,None
+North,Non-Veg,Breakfast,2,Boiled Eggs + Toast,349,20.9,45.4,9.3,None
+North,Non-Veg,Breakfast,3,Egg Bhurji + Roti,312,18.7,40.6,8.3,None
+North,Non-Veg,Breakfast,4,Greek Yogurt Bowl,303,18.2,39.4,8.1,LowSodium
+North,Non-Veg,Breakfast,5,Chicken Sandwich (light),301,18.1,39.1,8.0,None
+North,Non-Veg,Breakfast,6,Scrambled Eggs + Toast,314,18.8,40.8,8.4,None
+North,Non-Veg,Breakfast,7,Oats + Whey (small),346,20.8,45.0,9.2,DiabetesFriendly
+North,Non-Veg,Lunch,1,Grilled Chicken + Rice,497,29.8,64.6,13.3,LowSodium
+North,Non-Veg,Lunch,2,Chicken Curry (light) + Roti,538,32.3,69.9,14.3,None
+North,Non-Veg,Lunch,3,Fish Curry + Rice,544,32.6,70.7,14.5,None
+North,Non-Veg,Lunch,4,Egg Curry + Rice,517,31.0,67.2,13.8,None
+North,Non-Veg,Lunch,5,Tandoori Chicken + Roti,535,32.1,69.5,14.3,None
+North,Non-Veg,Lunch,6,Prawn Curry + Rice,484,29.0,62.9,12.9,None
+North,Non-Veg,Lunch,7,Mutton Curry (small) + Rice,484,29.0,62.9,12.9,None
+North,Non-Veg,Dinner,1,Grilled Fish + Veg,403,24.2,52.4,10.7,LowSodium
+North,Non-Veg,Dinner,2,Chicken Soup + Roti,443,26.6,57.6,11.8,None
+North,Non-Veg,Dinner,3,Chicken Tikka + Salad,422,25.3,54.9,11.3,"LowSodium,DiabetesFriendly"
+North,Non-Veg,Dinner,4,Fish Tikka + Salad,412,24.7,53.6,11.0,"LowSodium,DiabetesFriendly"
+North,Non-Veg,Dinner,5,Egg Curry + Roti,435,26.1,56.6,11.6,None
+North,Non-Veg,Dinner,6,Light Mutton Stew + Roti,424,25.4,55.1,11.3,LowSodium
+North,Non-Veg,Dinner,7,Fish Curry + Chapati,411,24.7,53.4,11.0,None
+North,Non-Veg,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+North,Non-Veg,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+North,Non-Veg,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+North,Non-Veg,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+North,Non-Veg,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+North,Non-Veg,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+North,Non-Veg,Snack,7,Protein shake (small),150,20,8,2,None
+North,Jain,Breakfast,1,Paneer Paratha,345,17.2,48.3,9.2,None
+North,Jain,Breakfast,2,Aloo Paratha (light),339,16.9,47.5,9.0,None
+North,Jain,Breakfast,3,Poha,310,15.5,43.4,8.3,None
+North,Jain,Breakfast,4,Besan Chilla,331,16.6,46.3,8.8,None
+North,Jain,Breakfast,5,Dalia Upma,328,16.4,45.9,8.7,DiabetesFriendly
+North,Jain,Breakfast,6,Stuffed Methi Paratha (light),350,17.5,49.0,9.3,None
+North,Jain,Breakfast,7,Ragi Cheela,341,17.1,47.7,9.1,DiabetesFriendly
+North,Jain,Lunch,1,Rajma + Brown Rice,508,25.4,71.1,13.5,None
+North,Jain,Lunch,2,Chole + Jeera Rice,580,29.0,81.2,15.5,None
+North,Jain,Lunch,3,Dal Tadka + Roti,490,24.5,68.6,13.1,DiabetesFriendly
+North,Jain,Lunch,4,Palak Paneer + Roti,521,26.1,72.9,13.9,None
+North,Jain,Lunch,5,Soybean Curry + Roti,557,27.9,78.0,14.9,None
+North,Jain,Lunch,6,Khichdi + Salad,494,24.7,69.2,13.2,"LowSodium,DiabetesFriendly"
+North,Jain,Lunch,7,Kadhi (light) + Roti,529,26.5,74.1,14.1,None
+North,Jain,Dinner,1,Moong Dal + Roti,389,19.5,54.5,10.4,DiabetesFriendly
+North,Jain,Dinner,2,Masoor Dal + Rice,442,22.1,61.9,11.8,DiabetesFriendly
+North,Jain,Dinner,3,Aloo Gobi + Roti,450,22.5,63.0,12.0,None
+North,Jain,Dinner,4,Mix Veg Curry + Roti,434,21.7,60.8,11.6,None
+North,Jain,Dinner,5,Paneer Bhurji + Roti,459,23.0,64.3,12.2,None
+North,Jain,Dinner,6,Lauki Chana Dal + Roti,412,20.6,57.7,11.0,DiabetesFriendly
+North,Jain,Dinner,7,Baingan Bharta + Roti,444,22.2,62.2,11.8,None
+North,Jain,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+North,Jain,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+North,Jain,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+North,Jain,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+North,Jain,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+North,Jain,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+North,Jain,Snack,7,Protein shake (small),150,20,8,2,None
+North,Vegan,Breakfast,1,Paneer Paratha,332,16.6,46.5,8.9,None
+North,Vegan,Breakfast,2,Aloo Paratha (light),331,16.6,46.3,8.8,None
+North,Vegan,Breakfast,3,Poha,323,16.2,45.2,8.6,None
+North,Vegan,Breakfast,4,Besan Chilla,348,17.4,48.7,9.3,None
+North,Vegan,Breakfast,5,Dalia Upma,354,17.7,49.6,9.4,DiabetesFriendly
+North,Vegan,Breakfast,6,Stuffed Methi Paratha (light),324,16.2,45.4,8.6,None
+North,Vegan,Breakfast,7,Ragi Cheela,336,16.8,47.0,9.0,DiabetesFriendly
+North,Vegan,Lunch,1,Rajma + Brown Rice,484,24.2,67.8,12.9,None
+North,Vegan,Lunch,2,Chole + Jeera Rice,551,27.6,77.1,14.7,None
+North,Vegan,Lunch,3,Dal Tadka + Roti,545,27.2,76.3,14.5,DiabetesFriendly
+North,Vegan,Lunch,4,Palak Paneer + Roti,581,29.1,81.3,15.5,None
+North,Vegan,Lunch,5,Soybean Curry + Roti,563,28.2,78.8,15.0,None
+North,Vegan,Lunch,6,Khichdi + Salad,507,25.4,71.0,13.5,"LowSodium,DiabetesFriendly"
+North,Vegan,Lunch,7,Kadhi (light) + Roti,518,25.9,72.5,13.8,None
+North,Vegan,Dinner,1,Moong Dal + Roti,442,22.1,61.9,11.8,DiabetesFriendly
+North,Vegan,Dinner,2,Masoor Dal + Rice,388,19.4,54.3,10.3,DiabetesFriendly
+North,Vegan,Dinner,3,Aloo Gobi + Roti,425,21.2,59.5,11.3,None
+North,Vegan,Dinner,4,Mix Veg Curry + Roti,400,20.0,56.0,10.7,None
+North,Vegan,Dinner,5,Paneer Bhurji + Roti,396,19.8,55.4,10.6,None
+North,Vegan,Dinner,6,Lauki Chana Dal + Roti,391,19.6,54.7,10.4,DiabetesFriendly
+North,Vegan,Dinner,7,Baingan Bharta + Roti,450,22.5,63.0,12.0,None
+North,Vegan,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+North,Vegan,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+North,Vegan,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+North,Vegan,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+North,Vegan,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+North,Vegan,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+North,Vegan,Snack,7,Protein shake (small),150,20,8,2,None
+South,Veg,Breakfast,1,Idli + Sambar,302,15.1,42.3,8.1,DiabetesFriendly
+South,Veg,Breakfast,2,Rava Upma,310,15.5,43.4,8.3,None
+South,Veg,Breakfast,3,Ragi Dosa,319,16.0,44.7,8.5,DiabetesFriendly
+South,Veg,Breakfast,4,Pesarattu,350,17.5,49.0,9.3,DiabetesFriendly
+South,Veg,Breakfast,5,Vegetable Dosa,299,15.0,41.9,8.0,None
+South,Veg,Breakfast,6,Curd Rice (small),323,16.2,45.2,8.6,LowSodium
+South,Veg,Breakfast,7,Millet Porridge,329,16.4,46.1,8.8,None
+South,Veg,Lunch,1,Sambar + Brown Rice,570,28.5,79.8,15.2,None
+South,Veg,Lunch,2,Avial + Red Rice,563,28.2,78.8,15.0,None
+South,Veg,Lunch,3,Kootu + Millet Roti,568,28.4,79.5,15.1,None
+South,Veg,Lunch,4,Veg Kurma + Appam,507,25.4,71.0,13.5,None
+South,Veg,Lunch,5,Tomato Pappu + Rice,521,26.1,72.9,13.9,None
+South,Veg,Lunch,6,Curd Rice + Poriyal,515,25.8,72.1,13.7,LowSodium
+South,Veg,Lunch,7,Lemon Rice + Dal,570,28.5,79.8,15.2,DiabetesFriendly
+South,Veg,Dinner,1,Veg Stew + Appam,466,23.3,65.2,12.4,LowSodium
+South,Veg,Dinner,2,Rasam + Roti,399,20.0,55.9,10.6,None
+South,Veg,Dinner,3,Chettinad Veg + Chapati,401,20.1,56.1,10.7,None
+South,Veg,Dinner,4,Sambar + Ragi Mudde,405,20.2,56.7,10.8,DiabetesFriendly
+South,Veg,Dinner,5,Curd Rice (light),406,20.3,56.8,10.8,LowSodium
+South,Veg,Dinner,6,Mixed Veg Curry + Roti,427,21.4,59.8,11.4,None
+South,Veg,Dinner,7,Tomato Pappu + Roti,435,21.8,60.9,11.6,None
+South,Veg,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+South,Veg,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+South,Veg,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+South,Veg,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+South,Veg,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+South,Veg,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+South,Veg,Snack,7,Protein shake (small),150,20,8,2,None
+South,Non-Veg,Breakfast,1,Egg Dosa,311,18.7,40.4,8.3,None
+South,Non-Veg,Breakfast,2,Idli + Omelette,294,17.6,38.2,7.8,DiabetesFriendly
+South,Non-Veg,Breakfast,3,Ragi Dosa + Egg,321,19.3,41.7,8.6,DiabetesFriendly
+South,Non-Veg,Breakfast,4,Pesarattu + Egg,318,19.1,41.3,8.5,DiabetesFriendly
+South,Non-Veg,Breakfast,5,Boiled Eggs + Upma,330,19.8,42.9,8.8,None
+South,Non-Veg,Breakfast,6,Egg Appam,355,21.3,46.1,9.5,None
+South,Non-Veg,Breakfast,7,Oats + Whey (small),338,20.3,43.9,9.0,DiabetesFriendly
+South,Non-Veg,Lunch,1,Fish Curry + Red Rice,532,31.9,69.2,14.2,None
+South,Non-Veg,Lunch,2,Chicken Chettinad + Rice,542,32.5,70.5,14.5,None
+South,Non-Veg,Lunch,3,Fish Fry (air) + Rice,548,32.9,71.2,14.6,HighSatFat
+South,Non-Veg,Lunch,4,Chicken Stew + Appam,484,29.0,62.9,12.9,LowSodium
+South,Non-Veg,Lunch,5,Prawn Curry + Rice,571,34.3,74.2,15.2,None
+South,Non-Veg,Lunch,6,Mutton Curry (small) + Rice,559,33.5,72.7,14.9,None
+South,Non-Veg,Lunch,7,Grilled Fish + Rice,569,34.1,74.0,15.2,LowSodium
+South,Non-Veg,Dinner,1,Grilled Fish + Veg,453,27.2,58.9,12.1,LowSodium
+South,Non-Veg,Dinner,2,Chicken Curry (light) + Chapati,419,25.1,54.5,11.2,None
+South,Non-Veg,Dinner,3,Fish Tikka + Salad,419,25.1,54.5,11.2,"LowSodium,DiabetesFriendly"
+South,Non-Veg,Dinner,4,Egg Curry + Rice (small),395,23.7,51.4,10.5,None
+South,Non-Veg,Dinner,5,Chicken Soup + Roti,439,26.3,57.1,11.7,None
+South,Non-Veg,Dinner,6,Prawn Skewers + Salad,391,23.5,50.8,10.4,"LowSodium,DiabetesFriendly"
+South,Non-Veg,Dinner,7,Light Fish Curry + Millet Roti,392,23.5,51.0,10.5,None
+South,Non-Veg,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+South,Non-Veg,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+South,Non-Veg,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+South,Non-Veg,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+South,Non-Veg,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+South,Non-Veg,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+South,Non-Veg,Snack,7,Protein shake (small),150,20,8,2,None
+South,Jain,Breakfast,1,Idli + Sambar,307,15.4,43.0,8.2,DiabetesFriendly
+South,Jain,Breakfast,2,Rava Upma,304,15.2,42.6,8.1,None
+South,Jain,Breakfast,3,Ragi Dosa,316,15.8,44.2,8.4,DiabetesFriendly
+South,Jain,Breakfast,4,Pesarattu,297,14.9,41.6,7.9,DiabetesFriendly
+South,Jain,Breakfast,5,Vegetable Dosa,294,14.7,41.2,7.8,None
+South,Jain,Breakfast,6,Curd Rice (small),304,15.2,42.6,8.1,LowSodium
+South,Jain,Breakfast,7,Millet Porridge,300,15.0,42.0,8.0,None
+South,Jain,Lunch,1,Sambar + Brown Rice,516,25.8,72.2,13.8,None
+South,Jain,Lunch,2,Avial + Red Rice,481,24.1,67.3,12.8,None
+South,Jain,Lunch,3,Kootu + Millet Roti,569,28.5,79.7,15.2,None
+South,Jain,Lunch,4,Veg Kurma + Appam,542,27.1,75.9,14.5,None
+South,Jain,Lunch,5,Tomato Pappu + Rice,493,24.7,69.0,13.1,None
+South,Jain,Lunch,6,Curd Rice + Poriyal,504,25.2,70.6,13.4,LowSodium
+South,Jain,Lunch,7,Lemon Rice + Dal,514,25.7,72.0,13.7,DiabetesFriendly
+South,Jain,Dinner,1,Veg Stew + Appam,416,20.8,58.2,11.1,LowSodium
+South,Jain,Dinner,2,Rasam + Roti,396,19.8,55.4,10.6,None
+South,Jain,Dinner,3,Chettinad Veg + Chapati,457,22.9,64.0,12.2,None
+South,Jain,Dinner,4,Sambar + Ragi Mudde,469,23.5,65.7,12.5,DiabetesFriendly
+South,Jain,Dinner,5,Curd Rice (light),425,21.2,59.5,11.3,LowSodium
+South,Jain,Dinner,6,Mixed Veg Curry + Roti,427,21.4,59.8,11.4,None
+South,Jain,Dinner,7,Tomato Pappu + Roti,393,19.7,55.0,10.5,None
+South,Jain,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+South,Jain,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+South,Jain,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+South,Jain,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+South,Jain,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+South,Jain,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+South,Jain,Snack,7,Protein shake (small),150,20,8,2,None
+South,Vegan,Breakfast,1,Idli + Sambar,300,15.0,42.0,8.0,DiabetesFriendly
+South,Vegan,Breakfast,2,Rava Upma,316,15.8,44.2,8.4,None
+South,Vegan,Breakfast,3,Ragi Dosa,311,15.6,43.5,8.3,DiabetesFriendly
+South,Vegan,Breakfast,4,Pesarattu,347,17.4,48.6,9.3,DiabetesFriendly
+South,Vegan,Breakfast,5,Vegetable Dosa,304,15.2,42.6,8.1,None
+South,Vegan,Breakfast,6,Curd Rice (small),295,14.8,41.3,7.9,LowSodium
+South,Vegan,Breakfast,7,Millet Porridge,355,17.8,49.7,9.5,None
+South,Vegan,Lunch,1,Sambar + Brown Rice,533,26.7,74.6,14.2,None
+South,Vegan,Lunch,2,Avial + Red Rice,493,24.7,69.0,13.1,None
+South,Vegan,Lunch,3,Kootu + Millet Roti,534,26.7,74.8,14.2,None
+South,Vegan,Lunch,4,Veg Kurma + Appam,481,24.1,67.3,12.8,None
+South,Vegan,Lunch,5,Tomato Pappu + Rice,533,26.7,74.6,14.2,None
+South,Vegan,Lunch,6,Curd Rice + Poriyal,580,29.0,81.2,15.5,LowSodium
+South,Vegan,Lunch,7,Lemon Rice + Dal,568,28.4,79.5,15.1,DiabetesFriendly
+South,Vegan,Dinner,1,Veg Stew + Appam,444,22.2,62.2,11.8,LowSodium
+South,Vegan,Dinner,2,Rasam + Roti,408,20.4,57.1,10.9,None
+South,Vegan,Dinner,3,Chettinad Veg + Chapati,417,20.9,58.4,11.1,None
+South,Vegan,Dinner,4,Sambar + Ragi Mudde,400,20.0,56.0,10.7,DiabetesFriendly
+South,Vegan,Dinner,5,Curd Rice (light),451,22.6,63.1,12.0,LowSodium
+South,Vegan,Dinner,6,Mixed Veg Curry + Roti,431,21.6,60.3,11.5,None
+South,Vegan,Dinner,7,Tomato Pappu + Roti,451,22.6,63.1,12.0,None
+South,Vegan,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+South,Vegan,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+South,Vegan,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+South,Vegan,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+South,Vegan,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+South,Vegan,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+South,Vegan,Snack,7,Protein shake (small),150,20,8,2,None
+East,Veg,Breakfast,1,Chire’r Pulao (Poha),315,15.8,44.1,8.4,None
+East,Veg,Breakfast,2,Moong Dal Chilla,308,15.4,43.1,8.2,DiabetesFriendly
+East,Veg,Breakfast,3,Vegetable Dalia,346,17.3,48.4,9.2,DiabetesFriendly
+East,Veg,Breakfast,4,Ragi Upma,357,17.9,50.0,9.5,DiabetesFriendly
+East,Veg,Breakfast,5,Steamed Rice Cakes (Idli-style),348,17.4,48.7,9.3,DiabetesFriendly
+East,Veg,Breakfast,6,Masala Oats,345,17.2,48.3,9.2,DiabetesFriendly
+East,Veg,Breakfast,7,Besan Pancakes,346,17.3,48.4,9.2,None
+East,Veg,Lunch,1,Khichuri + Veg,555,27.8,77.7,14.8,DiabetesFriendly
+East,Veg,Lunch,2,Cholar Dal + Rice,501,25.1,70.1,13.4,DiabetesFriendly
+East,Veg,Lunch,3,Shukto + Rice (small),532,26.6,74.5,14.2,None
+East,Veg,Lunch,4,Aloo Posto (light) + Rice,515,25.8,72.1,13.7,None
+East,Veg,Lunch,5,Paneer Curry (light) + Roti,481,24.1,67.3,12.8,None
+East,Veg,Lunch,6,Mixed Veg + Rice,481,24.1,67.3,12.8,None
+East,Veg,Lunch,7,Dalna + Roti,507,25.4,71.0,13.5,DiabetesFriendly
+East,Veg,Dinner,1,Veg Stew + Rice,408,20.4,57.1,10.9,LowSodium
+East,Veg,Dinner,2,Tomato Dal + Rice,444,22.2,62.2,11.8,DiabetesFriendly
+East,Veg,Dinner,3,Saag + Roti,466,23.3,65.2,12.4,None
+East,Veg,Dinner,4,Pumpkin Sabzi + Roti,423,21.2,59.2,11.3,None
+East,Veg,Dinner,5,Cabbage Sabzi + Roti,465,23.2,65.1,12.4,None
+East,Veg,Dinner,6,Lauki Dal + Rice,469,23.5,65.7,12.5,DiabetesFriendly
+East,Veg,Dinner,7,Paneer Bhurji + Roti,466,23.3,65.2,12.4,None
+East,Veg,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+East,Veg,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+East,Veg,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+East,Veg,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+East,Veg,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+East,Veg,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+East,Veg,Snack,7,Protein shake (small),150,20,8,2,None
+East,Non-Veg,Breakfast,1,Egg Toast,317,19.0,41.2,8.5,None
+East,Non-Veg,Breakfast,2,Masala Omelette + Paratha (light),308,18.5,40.0,8.2,None
+East,Non-Veg,Breakfast,3,Boiled Eggs + Dalia,308,18.5,40.0,8.2,DiabetesFriendly
+East,Non-Veg,Breakfast,4,Egg Sandwich (light),306,18.4,39.8,8.2,None
+East,Non-Veg,Breakfast,5,Yogurt Fruit Bowl,307,18.4,39.9,8.2,LowSodium
+East,Non-Veg,Breakfast,6,Scrambled Eggs + Toast,334,20.0,43.4,8.9,None
+East,Non-Veg,Breakfast,7,Oats + Whey (small),352,21.1,45.8,9.4,DiabetesFriendly
+East,Non-Veg,Lunch,1,Macher Jhol + Rice (small),565,33.9,73.5,15.1,None
+East,Non-Veg,Lunch,2,Chicken Curry (light) + Rice,528,31.7,68.6,14.1,None
+East,Non-Veg,Lunch,3,Egg Curry + Rice,546,32.8,71.0,14.6,None
+East,Non-Veg,Lunch,4,Chingri (prawn) Curry + Rice,561,33.7,72.9,15.0,None
+East,Non-Veg,Lunch,5,Chicken Stew + Rice,487,29.2,63.3,13.0,LowSodium
+East,Non-Veg,Lunch,6,Fish Fry (air) + Rice,547,32.8,71.1,14.6,HighSatFat
+East,Non-Veg,Lunch,7,Kosha Mutton (small) + Rice,573,34.4,74.5,15.3,None
+East,Non-Veg,Dinner,1,Grilled Fish + Veg,452,27.1,58.8,12.1,LowSodium
+East,Non-Veg,Dinner,2,Chicken Soup + Roti,449,26.9,58.4,12.0,None
+East,Non-Veg,Dinner,3,Egg Curry + Roti,426,25.6,55.4,11.4,None
+East,Non-Veg,Dinner,4,Light Fish Curry + Rice,401,24.1,52.1,10.7,None
+East,Non-Veg,Dinner,5,Chicken Tikka + Salad,452,27.1,58.8,12.1,"LowSodium,DiabetesFriendly"
+East,Non-Veg,Dinner,6,Prawn Skewers + Veg,414,24.8,53.8,11.0,None
+East,Non-Veg,Dinner,7,Chicken Curry (light) + Roti,453,27.2,58.9,12.1,None
+East,Non-Veg,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+East,Non-Veg,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+East,Non-Veg,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+East,Non-Veg,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+East,Non-Veg,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+East,Non-Veg,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+East,Non-Veg,Snack,7,Protein shake (small),150,20,8,2,None
+East,Jain,Breakfast,1,Chire’r Pulao (Poha),356,17.8,49.8,9.5,None
+East,Jain,Breakfast,2,Moong Dal Chilla,319,16.0,44.7,8.5,DiabetesFriendly
+East,Jain,Breakfast,3,Vegetable Dalia,320,16.0,44.8,8.5,DiabetesFriendly
+East,Jain,Breakfast,4,Ragi Upma,354,17.7,49.6,9.4,DiabetesFriendly
+East,Jain,Breakfast,5,Steamed Rice Cakes (Idli-style),340,17.0,47.6,9.1,DiabetesFriendly
+East,Jain,Breakfast,6,Masala Oats,305,15.2,42.7,8.1,DiabetesFriendly
+East,Jain,Breakfast,7,Besan Pancakes,302,15.1,42.3,8.1,None
+East,Jain,Lunch,1,Khichuri + Veg,494,24.7,69.2,13.2,DiabetesFriendly
+East,Jain,Lunch,2,Cholar Dal + Rice,572,28.6,80.1,15.3,DiabetesFriendly
+East,Jain,Lunch,3,Shukto + Rice (small),562,28.1,78.7,15.0,None
+East,Jain,Lunch,4,Aloo Posto (light) + Rice,493,24.7,69.0,13.1,None
+East,Jain,Lunch,5,Paneer Curry (light) + Roti,564,28.2,79.0,15.0,None
+East,Jain,Lunch,6,Mixed Veg + Rice,580,29.0,81.2,15.5,None
+East,Jain,Lunch,7,Dalna + Roti,546,27.3,76.4,14.6,DiabetesFriendly
+East,Jain,Dinner,1,Veg Stew + Rice,415,20.8,58.1,11.1,LowSodium
+East,Jain,Dinner,2,Tomato Dal + Rice,432,21.6,60.5,11.5,DiabetesFriendly
+East,Jain,Dinner,3,Saag + Roti,397,19.9,55.6,10.6,None
+East,Jain,Dinner,4,Pumpkin Sabzi + Roti,387,19.4,54.2,10.3,None
+East,Jain,Dinner,5,Cabbage Sabzi + Roti,467,23.4,65.4,12.5,None
+East,Jain,Dinner,6,Lauki Dal + Rice,440,22.0,61.6,11.7,DiabetesFriendly
+East,Jain,Dinner,7,Paneer Bhurji + Roti,430,21.5,60.2,11.5,None
+East,Jain,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+East,Jain,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+East,Jain,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+East,Jain,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+East,Jain,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+East,Jain,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+East,Jain,Snack,7,Protein shake (small),150,20,8,2,None
+East,Vegan,Breakfast,1,Chire’r Pulao (Poha),354,17.7,49.6,9.4,None
+East,Vegan,Breakfast,2,Moong Dal Chilla,322,16.1,45.1,8.6,DiabetesFriendly
+East,Vegan,Breakfast,3,Vegetable Dalia,350,17.5,49.0,9.3,DiabetesFriendly
+East,Vegan,Breakfast,4,Ragi Upma,347,17.4,48.6,9.3,DiabetesFriendly
+East,Vegan,Breakfast,5,Steamed Rice Cakes (Idli-style),307,15.4,43.0,8.2,DiabetesFriendly
+East,Vegan,Breakfast,6,Masala Oats,310,15.5,43.4,8.3,DiabetesFriendly
+East,Vegan,Breakfast,7,Besan Pancakes,313,15.7,43.8,8.3,None
+East,Vegan,Lunch,1,Khichuri + Veg,503,25.2,70.4,13.4,DiabetesFriendly
+East,Vegan,Lunch,2,Cholar Dal + Rice,539,27.0,75.5,14.4,DiabetesFriendly
+East,Vegan,Lunch,3,Shukto + Rice (small),505,25.2,70.7,13.5,None
+East,Vegan,Lunch,4,Aloo Posto (light) + Rice,521,26.1,72.9,13.9,None
+East,Vegan,Lunch,5,Paneer Curry (light) + Roti,492,24.6,68.9,13.1,None
+East,Vegan,Lunch,6,Mixed Veg + Rice,573,28.7,80.2,15.3,None
+East,Vegan,Lunch,7,Dalna + Roti,515,25.8,72.1,13.7,DiabetesFriendly
+East,Vegan,Dinner,1,Veg Stew + Rice,424,21.2,59.4,11.3,LowSodium
+East,Vegan,Dinner,2,Tomato Dal + Rice,435,21.8,60.9,11.6,DiabetesFriendly
+East,Vegan,Dinner,3,Saag + Roti,462,23.1,64.7,12.3,None
+East,Vegan,Dinner,4,Pumpkin Sabzi + Roti,421,21.1,58.9,11.2,None
+East,Vegan,Dinner,5,Cabbage Sabzi + Roti,463,23.2,64.8,12.3,None
+East,Vegan,Dinner,6,Lauki Dal + Rice,428,21.4,59.9,11.4,DiabetesFriendly
+East,Vegan,Dinner,7,Paneer Bhurji + Roti,431,21.6,60.3,11.5,None
+East,Vegan,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+East,Vegan,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+East,Vegan,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+East,Vegan,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+East,Vegan,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+East,Vegan,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+East,Vegan,Snack,7,Protein shake (small),150,20,8,2,None
+West,Veg,Breakfast,1,Thepla + Dahi,327,16.4,45.8,8.7,None
+West,Veg,Breakfast,2,Batata Poha,295,14.8,41.3,7.9,None
+West,Veg,Breakfast,3,Handvo (slice),322,16.1,45.1,8.6,None
+West,Veg,Breakfast,4,Dhokla,306,15.3,42.8,8.2,None
+West,Veg,Breakfast,5,Khandvi (light),294,14.7,41.2,7.8,None
+West,Veg,Breakfast,6,Ragi Thalipeeth,345,17.2,48.3,9.2,DiabetesFriendly
+West,Veg,Breakfast,7,Upma (veg),305,15.2,42.7,8.1,None
+West,Veg,Lunch,1,Undhiyu (small) + Roti,527,26.4,73.8,14.1,None
+West,Veg,Lunch,2,Dal Dhokli (light),553,27.7,77.4,14.7,DiabetesFriendly
+West,Veg,Lunch,3,Matki Usal + Roti,536,26.8,75.0,14.3,None
+West,Veg,Lunch,4,Pithla + Bhakri,512,25.6,71.7,13.7,None
+West,Veg,Lunch,5,Gujarati Kadhi (light) + Rice,532,26.6,74.5,14.2,None
+West,Veg,Lunch,6,Veg Kolhapuri + Roti,536,26.8,75.0,14.3,None
+West,Veg,Lunch,7,Misal (light) + Pav (1),559,28.0,78.3,14.9,None
+West,Veg,Dinner,1,Veg Stew + Roti,395,19.8,55.3,10.5,LowSodium
+West,Veg,Dinner,2,Methi Mutter Malai (light) + Roti,433,21.7,60.6,11.5,None
+West,Veg,Dinner,3,Baingan Bharta + Roti,407,20.4,57.0,10.9,None
+West,Veg,Dinner,4,Sprout Curry + Roti,409,20.5,57.3,10.9,DiabetesFriendly
+West,Veg,Dinner,5,Sai Bhaji + Rice (small),451,22.6,63.1,12.0,None
+West,Veg,Dinner,6,Capsicum Besan + Roti,429,21.5,60.1,11.4,None
+West,Veg,Dinner,7,Dal Fry (light) + Rice,433,21.7,60.6,11.5,"HighSatFat,DiabetesFriendly"
+West,Veg,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+West,Veg,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+West,Veg,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+West,Veg,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+West,Veg,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+West,Veg,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+West,Veg,Snack,7,Protein shake (small),150,20,8,2,None
+West,Non-Veg,Breakfast,1,Egg Misal (light) + Pav (1),343,20.6,44.6,9.1,None
+West,Non-Veg,Breakfast,2,Egg Bhurji + Pav (1),352,21.1,45.8,9.4,None
+West,Non-Veg,Breakfast,3,Masala Omelette + Pav (1),322,19.3,41.9,8.6,None
+West,Non-Veg,Breakfast,4,Boiled Eggs + Poha,333,20.0,43.3,8.9,None
+West,Non-Veg,Breakfast,5,Yogurt Parfait,326,19.6,42.4,8.7,LowSodium
+West,Non-Veg,Breakfast,6,Scrambled Eggs + Toast,327,19.6,42.5,8.7,None
+West,Non-Veg,Breakfast,7,Oats + Whey (small),338,20.3,43.9,9.0,DiabetesFriendly
+West,Non-Veg,Lunch,1,Bombay Chicken Curry + Rice,525,31.5,68.2,14.0,None
+West,Non-Veg,Lunch,2,Fish Curry Malvani + Rice,533,32.0,69.3,14.2,None
+West,Non-Veg,Lunch,3,Kolhapuri Mutton (small) + Rice,528,31.7,68.6,14.1,None
+West,Non-Veg,Lunch,4,Prawn Curry + Rice,576,34.6,74.9,15.4,None
+West,Non-Veg,Lunch,5,Surmai Fry (air) + Rice,551,33.1,71.6,14.7,HighSatFat
+West,Non-Veg,Lunch,6,Chicken Xacuti (small) + Rice,569,34.1,74.0,15.2,None
+West,Non-Veg,Lunch,7,Grilled Fish + Rice,576,34.6,74.9,15.4,LowSodium
+West,Non-Veg,Dinner,1,Chicken Curry (light) + Roti,408,24.5,53.0,10.9,None
+West,Non-Veg,Dinner,2,Grilled Fish + Veg,433,26.0,56.3,11.5,LowSodium
+West,Non-Veg,Dinner,3,Egg Curry + Roti,465,27.9,60.5,12.4,None
+West,Non-Veg,Dinner,4,Fish Tikka + Salad,456,27.4,59.3,12.2,"LowSodium,DiabetesFriendly"
+West,Non-Veg,Dinner,5,Chicken Soup + Roti,397,23.8,51.6,10.6,None
+West,Non-Veg,Dinner,6,Prawn Skewers + Salad,396,23.8,51.5,10.6,"LowSodium,DiabetesFriendly"
+West,Non-Veg,Dinner,7,Light Fish Curry + Roti,423,25.4,55.0,11.3,None
+West,Non-Veg,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+West,Non-Veg,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+West,Non-Veg,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+West,Non-Veg,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+West,Non-Veg,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+West,Non-Veg,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+West,Non-Veg,Snack,7,Protein shake (small),150,20,8,2,None
+West,Jain,Breakfast,1,Thepla + Dahi,299,15.0,41.9,8.0,None
+West,Jain,Breakfast,2,Batata Poha,309,15.5,43.3,8.2,None
+West,Jain,Breakfast,3,Handvo (slice),299,15.0,41.9,8.0,None
+West,Jain,Breakfast,4,Dhokla,337,16.9,47.2,9.0,None
+West,Jain,Breakfast,5,Khandvi (light),344,17.2,48.2,9.2,None
+West,Jain,Breakfast,6,Ragi Thalipeeth,351,17.6,49.1,9.4,DiabetesFriendly
+West,Jain,Breakfast,7,Upma (veg),304,15.2,42.6,8.1,None
+West,Jain,Lunch,1,Undhiyu (small) + Roti,552,27.6,77.3,14.7,None
+West,Jain,Lunch,2,Dal Dhokli (light),547,27.4,76.6,14.6,DiabetesFriendly
+West,Jain,Lunch,3,Matki Usal + Roti,493,24.7,69.0,13.1,None
+West,Jain,Lunch,4,Pithla + Bhakri,570,28.5,79.8,15.2,None
+West,Jain,Lunch,5,Gujarati Kadhi (light) + Rice,579,29.0,81.1,15.4,None
+West,Jain,Lunch,6,Veg Kolhapuri + Roti,501,25.1,70.1,13.4,None
+West,Jain,Lunch,7,Misal (light) + Pav (1),577,28.9,80.8,15.4,None
+West,Jain,Dinner,1,Veg Stew + Roti,419,21.0,58.7,11.2,LowSodium
+West,Jain,Dinner,2,Methi Mutter Malai (light) + Roti,427,21.4,59.8,11.4,None
+West,Jain,Dinner,3,Baingan Bharta + Roti,469,23.5,65.7,12.5,None
+West,Jain,Dinner,4,Sprout Curry + Roti,456,22.8,63.8,12.2,DiabetesFriendly
+West,Jain,Dinner,5,Sai Bhaji + Rice (small),399,20.0,55.9,10.6,None
+West,Jain,Dinner,6,Capsicum Besan + Roti,422,21.1,59.1,11.3,None
+West,Jain,Dinner,7,Dal Fry (light) + Rice,429,21.5,60.1,11.4,"HighSatFat,DiabetesFriendly"
+West,Jain,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+West,Jain,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+West,Jain,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+West,Jain,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+West,Jain,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+West,Jain,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+West,Jain,Snack,7,Protein shake (small),150,20,8,2,None
+West,Vegan,Breakfast,1,Thepla + Dahi,316,15.8,44.2,8.4,None
+West,Vegan,Breakfast,2,Batata Poha,306,15.3,42.8,8.2,None
+West,Vegan,Breakfast,3,Handvo (slice),314,15.7,44.0,8.4,None
+West,Vegan,Breakfast,4,Dhokla,340,17.0,47.6,9.1,None
+West,Vegan,Breakfast,5,Khandvi (light),295,14.8,41.3,7.9,None
+West,Vegan,Breakfast,6,Ragi Thalipeeth,329,16.4,46.1,8.8,DiabetesFriendly
+West,Vegan,Breakfast,7,Upma (veg),322,16.1,45.1,8.6,None
+West,Vegan,Lunch,1,Undhiyu (small) + Roti,480,24.0,67.2,12.8,None
+West,Vegan,Lunch,2,Dal Dhokli (light),512,25.6,71.7,13.7,DiabetesFriendly
+West,Vegan,Lunch,3,Matki Usal + Roti,543,27.2,76.0,14.5,None
+West,Vegan,Lunch,4,Pithla + Bhakri,531,26.6,74.3,14.2,None
+West,Vegan,Lunch,5,Gujarati Kadhi (light) + Rice,485,24.2,67.9,12.9,None
+West,Vegan,Lunch,6,Veg Kolhapuri + Roti,580,29.0,81.2,15.5,None
+West,Vegan,Lunch,7,Misal (light) + Pav (1),560,28.0,78.4,14.9,None
+West,Vegan,Dinner,1,Veg Stew + Roti,468,23.4,65.5,12.5,LowSodium
+West,Vegan,Dinner,2,Methi Mutter Malai (light) + Roti,395,19.8,55.3,10.5,None
+West,Vegan,Dinner,3,Baingan Bharta + Roti,408,20.4,57.1,10.9,None
+West,Vegan,Dinner,4,Sprout Curry + Roti,389,19.5,54.5,10.4,DiabetesFriendly
+West,Vegan,Dinner,5,Sai Bhaji + Rice (small),451,22.6,63.1,12.0,None
+West,Vegan,Dinner,6,Capsicum Besan + Roti,409,20.5,57.3,10.9,None
+West,Vegan,Dinner,7,Dal Fry (light) + Rice,397,19.9,55.6,10.6,"HighSatFat,DiabetesFriendly"
+West,Vegan,Snack,1,Roasted Chana (30g),120,6,18,2,LowGI
+West,Vegan,Snack,2,Apple (medium),95,0.5,25,0.3,LowGI
+West,Vegan,Snack,3,Yogurt low-fat (150g),100,8,6,3,None
+West,Vegan,Snack,4,Peanuts unsalted (20g),110,5,4,9,LowSodium
+West,Vegan,Snack,5,Buttermilk (250ml),80,4,8,3,LowSodium
+West,Vegan,Snack,6,Cucumber+Carrot sticks,50,1.5,10,0.3,None
+West,Vegan,Snack,7,Protein shake (small),150,20,8,2,None
